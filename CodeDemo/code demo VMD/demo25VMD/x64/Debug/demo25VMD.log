@@ -1,0 +1,13 @@
+﻿  ConversionPerso.c
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\ConversionPerso.c(19,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'correct_math_defines.h' : No such file or directory
+  demo.c
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\Conversion.h(16,1): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\Conversion.h(22,16): warning C4013: 'CalculPerimetreCercle' non défini(e) ; extern retournant int pris par défaut
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\Conversion.h(22,45): error C2065: 'rayon_m' : identificateur non déclaré
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\Conversion.h(22,46): error C2099: l'initialiseur n'est pas une constante
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\demo.c(54,17): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\demo.c(43,1): warning C4305: 'initialisation' : troncation de 'double' à 'const float'
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\demo.c(63,8): error C2143: erreur de syntaxe : absence de ')' avant 'chaîne'
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\demo.c(63,8): error C2143: erreur de syntaxe : absence de '{' avant 'chaîne'
+C:\VMD\PROG_SLO1_25_26\CodeDemo\code demo VMD\demo25VMD\demo.c(63,8): error C2059: erreur de syntaxe : 'chaîne'
+  Génération de code en cours...

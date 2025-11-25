@@ -1,0 +1,8 @@
+﻿  Main.c
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo4\exo4\Main.c(43,10): warning C4473: 'printf' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo4\exo4\Main.c(43,10): message : les espaces réservés et leurs paramètres attendent des arguments 3 variadiques, mais des arguments 1 ont été fournis
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo4\exo4\Main.c(43,10): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%d'
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo4\exo4\Main.c(44,10): warning C4473: 'printf' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo4\exo4\Main.c(44,10): message : les espaces réservés et leurs paramètres attendent des arguments 3 variadiques, mais des arguments 1 ont été fournis
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo4\exo4\Main.c(44,10): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%d'
+  Exo4.vcxproj -> C:\VMD\PROG_SLO1_25_26\Exercice\Exo4\x64\Debug\Exo4.exe

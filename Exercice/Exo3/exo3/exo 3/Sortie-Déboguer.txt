@@ -1,0 +1,30 @@
+﻿'exo 3.exe' (Win32) : Chargé 'C:\VMD\PROG_SLO1_25_26\Exercice\Exo3\exo3\x64\Debug\exo 3.exe'. Les symboles ont été chargés.
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\ntdll.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\kernel32.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\KernelBase.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\vcruntime140d.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\ucrtbased.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Program Files (x86)\Impero Solutions Ltd\Impero Client\x64\ImperoInj64.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\ws2_32.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\rpcrt4.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\user32.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\win32u.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\gdi32.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\gdi32full.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\msvcp_win.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\ucrtbase.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\advapi32.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\winspool.drv'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\msvcrt.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\combase.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\sechost.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\SHCore.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\bcrypt.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\imm32.dll'. 
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\ntmarta.dll'. 
+Le thread 0x4a7c s'est arrêté avec le code 0 (0x0).
+'exo 3.exe' (Win32) : Chargé 'C:\Windows\System32\kernel.appcore.dll'. 
+Le thread 0x5c78 s'est arrêté avec le code 0 (0x0).
+Le thread 0x5b60 s'est arrêté avec le code 0 (0x0).
+Le thread 0x55ec s'est arrêté avec le code 0 (0x0).
+Le programme '[3264] exo 3.exe' s'est arrêté avec le code 0 (0x0).
