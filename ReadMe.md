@@ -1,4 +1,4 @@
-# PROG - Cours de programmation année 2025 - 2026 -> V0.3
+# PROG - Cours de programmation année 2025 - 2026 -> V0.4
 ## Infos Pratique - Bonne pratique git
 ### Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color:#FF0000;">Github</span>
 	
@@ -62,7 +62,7 @@
 
 | Exercice \ Initial Etudiant | **[NAM](https://github.com/Noe-Alam)** | **[CAH](https://github.com/christophe-Allen)** | **[MBY](https://github.com/mthbnny)** | **[LDE](https://github.com/LDE10)** | **[TDS](https://github.com/TimeDol)** | **[DEA](https://github.com/DEA-v1)** | **[LMY](https://github.com/Marmitte2)** | **[VMD](https://github.com/Valentin055)** | **[AOD](https://github.com/Alexandre-legrand281)** | **[SPY](https://github.com/SgtJams)** | **[SSR](https://github.com/norlag)** | **[NTN](https://github.com/NicoTf40)** | **[SVD](https://github.com/Samuel-Es)** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Ex1]()  | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex1](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo1)  | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex2A]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex2B]()   | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex2C]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
