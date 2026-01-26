@@ -1,14 +1,19 @@
 //-----------------------------------------------------------------------------------//
-// Nom du projet 		: Demo25_26
-// Nom du fichier 		: demo.c
+// Project Name 		: Demo25_26
+// File name 			: demo.c
 // Date de création 	: 29.09.2025
-// Date de modification : 14.11.2025
+// Date de modification : 15.12.2025
 //
 // Auteur 				: Philou (Ph. Bovey)
 //
-// Version				: 1.1
+// Version				: 1.2
 //
 // Description          : demo pour SLO1 25-26
+//						  -> type 
+//						  -> variable - tableau 
+//						  -> condition - itération
+//						  -> appel de fontion - utilisation lib perso + standard 
+// 
 //
 // Remarques			: une constante numérique entière -> ex 10 prend 4 octets 
 //						  une constante numérique réelle -> ex 3.14 prend 8 octets             
@@ -21,15 +26,18 @@
 
 //-- librairie perso --//  
 #include "Conversion.h"
+//#include "interfaceUser.h"
+
 
 //-- définition --// 
 #define FOIX_2 2
 #define ANNEES "25-26"
 #define VERSION 1.1
+#define TAILLE_TB 10
+#define LIGNE 3
+#define COLONNE 5
  
 //-- constante gloable --// 
-
-
 
 
 //----------------------------------------------------------------------------------//
@@ -50,8 +58,22 @@ void main()
 	//-- variables --//
 	//--- Entier Standard 
 	//--- Signé (+/-)
-	char varI;		// 1 octet
-	short varJ;		// 2 octets 
+	char varI;								// 1 octet
+
+	//-- tabeau entier de 1o
+	char tbExemple[TAILLE_TB];				// 10 octet
+	char tbExemple2[TAILLE_TB] = { 0 };		// 10 octet
+
+	//-- pointeur entier -> 1 octet
+	char* ptTb; 
+
+	short varJ;								// 2 octets 
+
+	//-- tableau entier de 2 octets 
+	short tbNoteGENELEC[LIGNE][COLONNE] = { {0, 0, 0, 0, 0},	// ELAN 
+										    {0, 0, 0, 0, 0},	// ELCO
+									        {0, 0, 0, 0, 0} };	// ELNU 
+
 	int varK, i, j;			// 4 octets			int = long 
 	long long varL;	// 8 octets 
 
@@ -97,16 +119,37 @@ void main()
 
 	printf("\n-> taille de l'enum robot %d [o]", sizeof(robot));
 
+	printf("\n-> taille du tableau %d [o]", sizeof(tbExemple));
+
 	//--- Reel 
 	//-> taille 4 octets
 	float perimetre1_m, perimetre2_m, perimetre3_m, vF;
-	float moyenne;
+	float tbnote[] = {3.5, 6, 4.0};
+	float moyenne; 
 
 	// cast implcite -> entier -> reel
 	float rayon_m = 10;          // _m => metre 
 
 	//-> taille 8 octets 
 	double varR;
+
+	// -> pour tester 10 case -> soit < 10 ou <= 9
+	// -> remplir un tableau en partant de la lettre 'A'
+	for (i = 0; i <= TAILLE_TB - 1; i++)
+	{
+		// -> Ox41 correspond au 'A'	(voir table ASCII) 
+		tbExemple[i] = 0X41 + i;
+		
+		// -> affichage de chaque caractère 
+		printf("%c ", i);
+	}
+
+	// -> exemple de récuperation d'une valeur d'un tableau 
+	i = tbExemple[9];
+
+	// -> exemple d'un 
+	moyenne = (tbnote[0] + tbnote[2]) / 2; 
+
 
 	//-- une imstruction  est composé d'opérandes (variable) et d'opérateur (signe) --//
 	//-- cast => (type)variable 
@@ -123,6 +166,8 @@ void main()
 	moyenne = CalculMoyenne();
 
 	//-> message user 
+	DemoAffichage(); 
+	
 	//--> perimètre 
 	printf("\n->demo calcul permimetre perimetre1 : %f \n", perimetre1_m);
 	printf("perimetre2 %f \n", perimetre2_m);
@@ -220,6 +265,13 @@ void main()
 
 
 }
+
+
+
+
+
+
+
 
 
 
