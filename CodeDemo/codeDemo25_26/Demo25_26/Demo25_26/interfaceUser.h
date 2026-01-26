@@ -17,11 +17,22 @@
 #define INTERFACE_USER_H
 
 
+//-- structure gloabale --//
+typedef struct
+{
+	int gain; 
+	double Vbe; 
+	short courant[2];   
+}str_transistor;
+
 
 
 
 //-- prototypes --// 
 void DemoAffichage(); 
+
+
+void DemoStruct(str_transistor *tansistor); 
 
 
 
