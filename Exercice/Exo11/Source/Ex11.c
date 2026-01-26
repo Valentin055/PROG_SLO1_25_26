@@ -4,7 +4,10 @@
 
 
 // Fonction fDivInt
+void fDivInt(int ValA_dividende, int ValA_diviseur, char UserAnswer)
+{
 
+}
 
 // Fonction Extract
 
