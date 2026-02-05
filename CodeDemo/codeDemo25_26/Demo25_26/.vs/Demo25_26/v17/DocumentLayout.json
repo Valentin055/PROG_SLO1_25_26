@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Demo25_26\\interfaceUser.h",
               "ToolTip": "C:\\PBY\\GITHUB\\PROG_DEMO_SLO25_26\\CodeDemo\\codeDemo25_26\\Demo25_26\\Demo25_26\\interfaceUser.h",
               "RelativeToolTip": "Demo25_26\\interfaceUser.h",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-08T13:21:25.245Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Demo25_26\\affichage.c",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-08T13:08:33.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T13:08:33.901Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Demo25_26\\demo.c",
               "ViewState": "AgIAAIgAAAAAAAAAAAAmwJEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-03T08:53:11.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T08:53:11.462Z"
             }
           ]
         }

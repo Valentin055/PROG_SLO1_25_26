@@ -1,4 +1,4 @@
-//-----------------------------------------------------------------------------------//
+// ---------------------------------------------------------------------------------//
 // Nom du projet 		: Demo25_26
 // Nom du fichier 		: interfaceUser.h
 // Date de création 	: 08.12.2025
@@ -24,6 +24,16 @@ typedef struct
 	double Vbe; 
 	short courant[2];   
 }str_transistor;
+
+
+typedef struct
+{
+	char bit1 : 1; //; 
+	char bit2; //: 2; 
+	char bits  : 5;
+	float f ; 
+
+}str_champsbits;
 
 
 
