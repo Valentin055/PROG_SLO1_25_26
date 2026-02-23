@@ -36,6 +36,22 @@ typedef struct
 }str_champsbits;
 
 
+typedef struct
+{
+	char version : 4;				//LSB
+	char longueurEntete : 4; 
+	char typeService; 
+	short longeurTotal;				//MSB
+}str_enteteEthernet;
+
+typedef union
+{
+	str_enteteEthernet decodageTrame; 
+	unsigned int trame; 
+}u_ethernet;
+
+
+
 
 
 //-- prototypes --// 
