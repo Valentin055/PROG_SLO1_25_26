@@ -26,7 +26,7 @@
 
 //-- librairie perso --//  
 #include "Conversion.h"
-//#include "interfaceUser.h"
+#include "interfaceUser.h"
 
 
 //-- définition --// 
@@ -36,7 +36,20 @@
 #define TAILLE_TB 10
 #define LIGNE 3
 #define COLONNE 5
- 
+
+
+//-- définition structure local par rapport au fichier --// 
+struct str_GestLED
+{
+	char ledR;				// 1
+	char ledG; 
+	char LedB; 
+	float luminosite;		// 4
+	short* ptnbLed;			// 2 
+};
+
+
+
 //-- constante gloable --// 
 
 
@@ -113,6 +126,43 @@ void main()
 
 	//-- utilisation d'une énumération globale -> e_FORME --// 
 	e_FORME formeGeo = RECTANGLE;
+
+	//-- déclaration structure --// 
+
+
+	//-- local //-- type //-- variable 
+	struct str_GestLED mesLeds; 
+
+
+	// -- type		//-- variable 
+	str_transistor monTransistor = { 100, 0.7, {0}};
+
+	str_enteteEthernet ethernet; 
+	
+	varK = sizeof(str_enteteEthernet); 
+
+								//led R, G, B, lum, nb
+	struct str_GestLED mesleds2 = {0, 0, 0, 0.0, &tbExemple[0]};
+
+	mesLeds.LedB = 0; 
+
+
+	// -- gestion union 
+	u_ethernet ethernet2; 
+
+					  //MSB - LSB
+	ethernet2.trame = 0x12345678; 
+	
+	varI = ethernet2.decodageTrame.version; 
+	varI = ethernet2.decodageTrame.longueurEntete; 
+	varF = ethernet2.decodageTrame.longeurTotal; 
+
+
+
+
+	//-- passage par référence --//
+	DemoStruct(&monTransistor); 
+
 
 	//-- MAJ de la variable enum
 	robot = RECULE;

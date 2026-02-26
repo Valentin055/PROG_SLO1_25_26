@@ -1,4 +1,4 @@
-# PROG - Cours de programmation année 2025 - 2026 -> V0.4
+# PROG - Cours de programmation année 2025 - 2026 -> V1.6
 ## Infos Pratique - Bonne pratique git
 ### Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color:#FF0000;">Github</span>
 	
@@ -63,24 +63,21 @@
 | Exercice \ Initial Etudiant | **[NAM](https://github.com/Noe-Alam)** | **[CAH](https://github.com/christophe-Allen)** | **[MBY](https://github.com/mthbnny)** | **[LDE](https://github.com/LDE10)** | **[TDS](https://github.com/TimeDol)** | **[DEA](https://github.com/DEA-v1)** | **[LMY](https://github.com/Marmitte2)** | **[VMD](https://github.com/Valentin055)** | **[AOD](https://github.com/Alexandre-legrand281)** | **[SPY](https://github.com/SgtJams)** | **[SSR](https://github.com/norlag)** | **[NTN](https://github.com/NicoTf40)** | **[SVD](https://github.com/Samuel-Es)** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Ex1](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo1)  | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex2A]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex2B]()   | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex2C]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex3]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex4]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex5]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex6]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex7]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex7B]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex8]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex9]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex10]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex11]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex12 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex13 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex14 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex15 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex16 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2A](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo2) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex3](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo3) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo4) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex5](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo5) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex6](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo6) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex7](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo7) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex8](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo8) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex9](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo9) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex10](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo10) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex11](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo11) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex12](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo12) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex13](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo13) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex14](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo14) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex15](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo15) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex16](https://github.com/PBYetml/PROG_SLO1_25_26/tree/main/Exercice/Exo16) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex17 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex18 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex19 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -104,8 +101,6 @@
 
 ### Suivi projet
 * [Partie A](https://github.com/PBYetml/PROG_SLO1_24_25/tree/main/Exercice/Exo2) => réaliser un flow chart / pseudo code / structogramme : 
-* Partie B => réaliser code selon diagramme reçu => voir état d'avancement : 
-* [Partie C](https://github.com/PBYetml/PROG_SLO1_24_25/tree/main/CodeDemo/codeDemoSLO24_25/demoSLO1_24_25/demoSLO1_24_25) => réaliser un code permettant de calculer la surface d'une forme géométrique 
 
 ## Exercice 3
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo3)
@@ -122,40 +117,20 @@
 * lien avec le chapitre 3 - 4 - 5 - 6 	
 * source à disposition : - 
 
-## [CORRECTION TEST 1 -> Q3](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25)
-* etat d'avancement => voir [#18](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25/issues/18)
-* lien avec le chapitre 3 - 4 - 5 - 6 
-* source à disposition : Test 1 (individuel)  
-
-## [CORRECTION TEST 1 -> Q6](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25)
-* état d'avancement => [#8](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25/issues/8)
-* lien avec le chapitre 3 - 4 - 5 - 6 
-* source à disposition : Test 1 (individuel)  
-
 ## Exercice 6
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo6)
 * lien avec le chapitre 3 - 4 - 5 - 6 	
 * source à disposition : - 
 
-## Exercice 7 
+## Exercices Série 7  
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 
 * source à disposition : -
-
-## Exercice 7B 
-* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7B)
-* lien avec le chapitre 3 - 4 - 5 - 6 - 7 
-* source à disposition : - 
 
 ## Exercice 8
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo8)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 	
 * source à disposition : Ex8.c 
-
-## [PRJ 1](https://github.com/PBYetml/PROG_PRJ1_2024_SLO1_Resultat)
-* état d'avancement => [#49](https://github.com/PBYetml/PROG_SLO1_24_25/issues/49) -> [issues](https://github.com/PBYetml/PROG_PRJ1_2024_SLO1_Resultat/issues)
-* lien avec le chapitre 3 - 4 - 5 - 6 - 7
-* source à disposition : [Projet 1](https://github.com/PBYetml/PROG_PRJ1_2024_SLO1_Resultat)  
 
 ## Exercice 9
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo9)
@@ -168,31 +143,31 @@
 * source à disposition : Ex10.c 
 
 ## Exercice 11
-* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo10)
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo11)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8	
 * source à disposition : Ex11.c 
 
-## Exercices - Série 12
+## Exercice 12
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo12)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8	
 * source à disposition : Ex12.c - Ex12c.c - Ex12d.c
 
-## Exercices - Série 13
+## Exercice Série 13
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo13)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8 	
 * source à disposition : Ex13.c - Ex13B.c - Ex13_SG.c
 
-## Exercices - Série 14
+## Exercice 14
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo14)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8  	
 * source à disposition :  Ex14.c 
 
-## Exercices - Série 15
+## Exercice 15
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo15)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8  	
 * source à disposition :  
 
-## Exercices - Série 16
+## Exercice 16
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo16)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8  	
 * source à disposition :  Ex16.c 

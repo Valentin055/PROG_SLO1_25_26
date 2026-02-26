@@ -17,7 +17,7 @@
 #include <stdio.h>
 
 //-- librairie perso --//  
-//#include "interfaceUser.h"
+#include "interfaceUser.h"
 
 
 //----------------------------------------------------------------------------------//
@@ -44,4 +44,13 @@ void DemoAffichage()
 	//-- --//
 	printf("%c", version); 
 
+}
+
+
+void DemoStruct(str_transistor *transistor)
+{
+
+	transistor->Vbe = 0.6; 
+	
+	(*transistor).gain = 120; 
 }
