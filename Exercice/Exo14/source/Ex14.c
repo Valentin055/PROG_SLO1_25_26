@@ -9,6 +9,19 @@
 
 // Fonction CalSec
 
+//structure StructCalSec
+
+
+int CalSec(int HeuresA, int MinutesA, int secondes)
+{
+	
+	int secH;
+	int secM;
+	secH = HeuresA * 120;
+	secM = MinutesA * 60;
+	secondes = secH + secM;
+	return secondes;
+}
 
 // Fonction GetHMS_B
 
@@ -23,7 +36,7 @@ int main (void)
 {
 	char UserAnswer;
 	// Variables pour test A
-	int HeuresA, MinutesA;
+	int HeuresA, MinutesA, secondes = 0;
 
 	// Variables pour test B
 	int ValB;
@@ -35,7 +48,7 @@ int main (void)
 	int ValD;
 
 
-	printf("Ex14  Prenom NOM \n");	// à MAJ
+	printf("Ex14  Valentin Mermoud \n");	// à MAJ
 
 	do {
 		printf("Test A, B, C ou D, Q pour Quitter \n");
@@ -49,7 +62,9 @@ int main (void)
 				printf("TestA: entrez le nb de minutes  \n");
 				scanf_s("%d%*c", &MinutesA);
 				// Suite TestA
+				CalSec(HeuresA, MinutesA, secondes);
 
+				printf("TestA: Heure = %d Minute = %d Nb secondes = %d \n", &HeuresA,&MinutesA,&secondes); //???
 			break;
 
 			case 'B':

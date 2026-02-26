@@ -14,7 +14,7 @@ int fDivInt(int dividende, int diviseur, int *Reste)
 }  // fDivInt
 
 // Fonction Extract
-short int Extract(int nombre, short int *Cent, short int *Diz)
+short Extract(int nombre, short int *Cent, short int *Diz)
 {
 	short int Units;
 	Units = nombre % 10;
@@ -35,7 +35,7 @@ int main (void)
 	int ValB;
 	short int ResCent, ResDiz, ResUnit;
 
-	printf("Ex13 Prenom NOM \n");
+	printf("Ex13 Valentin Mermoud \n");
 
 	do {
 		printf("Test A ou B, Q pour Quitter \n");
