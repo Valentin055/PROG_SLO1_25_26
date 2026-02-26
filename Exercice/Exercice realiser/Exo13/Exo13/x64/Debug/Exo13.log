@@ -1,2 +1,2 @@
 ﻿  Ex13.c
-  Exo13.vcxproj -> C:\VMD\PROG_SLO1_25_26\Exercice\Exo13\sources\Exo13\x64\Debug\Exo13.exe
+c1 : fatal error C1083: Impossible d'ouvrir le fichier source : '..\..\Ex13.c' : No such file or directory

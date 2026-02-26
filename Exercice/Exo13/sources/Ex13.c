@@ -5,16 +5,26 @@
 
 #include <stdio.h>
 
+typedef struct {
+	quotien;
+	reste;
+	cent;
+	diz;
+	units;
+} Fonctions;
+
 
 // Fonction fDivInt
-int fDivInt(int dividende, int diviseur, int *Reste)
+Fonctions fDivInt(int dividende, int diviseur, int *Reste)
 {
-	*Reste = dividende % diviseur;
-	return (dividende / diviseur);
+	Fonctions fonct;
+	fonct.reste = dividende % diviseur;
+	fonct.quotien = dividende / diviseur;
+	return fonct;
 }  // fDivInt
 
 // Fonction Extract
-short Extract(int nombre, short int *Cent, short int *Diz)
+Fonctions Extract(int nombre, short int *Cent, short int *Diz)
 {
 	short int Units;
 	Units = nombre % 10;
