@@ -1,0 +1,5 @@
+﻿  Exo5.c
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo5\Exo5\Exo5\Exo5.c(34,9): warning C4477: 'scanf' : la chaîne de format '%c' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int *'
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo5\Exo5\Exo5\Exo5.c(34,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\VMD\PROG_SLO1_25_26\Exercice\Exo5\Exo5\Exo5\Exo5.c(40,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exo5.vcxproj -> C:\VMD\PROG_SLO1_25_26\Exercice\Exo5\Exo5\x64\Debug\Exo5.exe
